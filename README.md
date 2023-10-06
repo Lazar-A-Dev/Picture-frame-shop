@@ -1,4 +1,4 @@
-# ProdavnicaRama
+# Picture frame shop
 A web apk. where the user can search available picture frames
 
 Please remember to install the following packages:
