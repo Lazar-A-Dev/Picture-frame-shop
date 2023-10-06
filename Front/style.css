@@ -1,0 +1,58 @@
+.glavni{
+    display: flex;
+    flex-direction: row;
+}
+
+.levi{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.red1, .red2, .red3, .red4, .red5{
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    justify-content: space-between;
+}
+
+.katSelect, .bojaSelect, .matSelect{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    text-align: center;
+}
+
+.cenaOdInput, .cenaDoInput{
+    display: flex;
+    flex-direction: row;
+    width: 192.5px;
+    text-align: center;
+}
+
+.desni{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+.kartica{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.red1K, .red2K, .red3K, .red4K, .red5K{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.slika{
+    display: flex;
+    width: 70%;
+}
